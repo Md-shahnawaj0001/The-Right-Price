@@ -1,0 +1,8 @@
+venv/ 
+venv311/ 
+.env 
+__pycache__/ 
+*.pth 
+*.bin 
+*.pt 
+.ipynb_checkpoints/ 
